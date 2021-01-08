@@ -4,9 +4,9 @@
 
 Here are some thngs for you to get to know me:
 
-- 💻 I’m currently working on small front end and back end projects.
-- :man_student: I’m currently learning Python, Java, Data Science, Machine learning, Power BI as well as HTML5 with CSS3 and JavaScript.
-- 👯 I’m looking to collaborate on Artificial Intelligence projects.
+- 💻 I’m currently working on FullStack projects.
+- :man_student: I’m currently learning Python with Django and Flask Framework, Java with Spring Boot Framework, as well as HTML5 with CSS3 and JavaScript.
+- 👯 I’m looking to collaborate on Fullstack projects.
 - 🤔 I’m looking for help with anything and everything regarding programming.
 - ❤️ I'm an IT and Edcuation enthusiast.
 
