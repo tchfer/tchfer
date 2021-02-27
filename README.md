@@ -4,11 +4,11 @@
 
 Here are some thngs for you to get to know me:
 
-- 💻 I’m currently working on FullStack projects.
-- :man_student: I’m currently learning Python with Django and Flask Framework, Java with Spring Boot Framework, as well as HTML5 with CSS3 and JavaScript.
+- 💻 I’m currently working as a front-end developer.
+- :man_student: I’m currently learning JavaScript | Angular | Java | Spring boot
 - 👯 I’m looking to collaborate on Fullstack projects.
 - 🤔 I’m looking for help with anything and everything regarding programming.
-- ❤️ I'm an IT and Edcuation enthusiast.
+- ❤️ I'm an IT enthusiast.
 
 #### Follow me on my social networking sites:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/tchfer)
