@@ -20,4 +20,6 @@ Here are some thngs for you to get to know me:
     “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”
 </p>
 <p align="right">-Bill Gates&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;</p>
+    
+![Snake animation](https://github.com/tchfer/tchfer/blob/output/github-contribution-grid-snake.svg)
 </div>
