@@ -2,7 +2,13 @@
 
 ### Hi there, everyone! Welcome to my profile! 👋
 
-Here are some thngs for you to get to know me:
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchfer&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+### Here are some thngs for you to get to know me:
 
 - 💻 I’m currently working as a front-end developer.
 - :man_student: I’m currently learning JavaScript | Angular | Java | Spring boot
