@@ -22,5 +22,5 @@ Here are some thngs for you to get to know me:
 <p align="right">-Bill Gates&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;</p>
 
     
-[Snake animation](https://github.com/tchfer/tchfer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tchfer/tchfer/blob/output/github-contribution-grid-snake.svg)
 </div>
